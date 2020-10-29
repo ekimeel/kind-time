@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.DaysTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.003">
+  <properties/>
+  <testcase name="testToMilliseconds" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testOfOnANullString" classname="kind.time.DaysTest" time="0.001"/>
+  <testcase name="testOfOnAInvalidDayString" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testTwoDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testThirtyDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testThreeDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testAlignedWithJavaCalendar" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testSevenDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testOfOnInvalidDayIndex" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testNinetyDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testSixtyDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testFiveDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testMillisInADay" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testOfOnLongNamedDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testFourDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testWeekendAndWeekday" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testOneDay" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testSixDays" classname="kind.time.DaysTest" time="0.0"/>
+  <testcase name="testOfOnShortNamedDays" classname="kind.time.DaysTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

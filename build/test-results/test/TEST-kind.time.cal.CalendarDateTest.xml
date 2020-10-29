@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.cal.CalendarDateTest" tests="66" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.037">
+  <properties/>
+  <testcase name="testAreEqualDates" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testToISODateTimeOnALeapYear" classname="kind.time.cal.CalendarDateTest" time="0.002"/>
+  <testcase name="testIsBetweenHours_int_int_whenNot" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testOf_int_int_int_holidaySchedule" classname="kind.time.cal.CalendarDateTest" time="0.002"/>
+  <testcase name="testIsBetweenHours_int_int" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddDays" classname="kind.time.cal.CalendarDateTest" time="0.002"/>
+  <testcase name="testEqualsMonth" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testLessThan" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testNow" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddDaysWithANegativeValue" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testOf_int_int_int_Empty_holidaySchedule" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testFirstDayOfWeekIsCorrectCrossingYears" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testToISODateTime" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testDiffInDaysWhenCrossingMonths" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testLastDayOfWeekIsCorrectCrossingYears" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testOfWithABadString" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testGreaterThanWhenGivenNull" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddHoursWithANegativeValue" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testAreEqualDatesWhenGivenNull" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testFirstDayOfWeekIsCorrectDuringTheWeek" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testToString_string" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testDefaultDayOfTheMonth" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddHours" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testGetYear" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testEqualsYear" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testLastDayOfWeekIsCorrectDuringTheWeek" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testLastDayOfWeekIsCorrectCrossingMonths" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testOfWithAYearDefaultsToTheFirstDayOfTheYear" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testIsBetween" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testIsLeapYear" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testToISODate" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testToISOTime" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testToISOYear" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testGreaterThan" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testGetDayOfYear" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testIsBetweenHours_int_int_whenHourIsOnStart" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testToJavaUtilDate" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testDefaultMonth" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testToSQLDate" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testAddMonths" classname="kind.time.cal.CalendarDateTest" time="0.005"/>
+  <testcase name="testOfWithAString" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testDefaultMinuteOfHour" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testDiffInDaysWhenCrossingMonthsWithLeapYear" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAreEqualDatesWhenNot" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testGetHoursInADayOnANormalDay" classname="kind.time.cal.CalendarDateTest" time="0.003"/>
+  <testcase name="testIsBetweenHours_int_int_whenHourIsOnEnd" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testAddDaysMovesToTheNextYear" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testDaysDifferenceForYearsTimeFrame" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddUsingDurationOfTwoDays" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddDaysMovesToTheNextMonth" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddUsingDurationOfOneDay" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddMonthsThatWillRollToTheNextYear" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testIsWeekday" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testToGregorianCalendar" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testLessThanWhenGivenNull" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testToTimeZone" classname="kind.time.cal.CalendarDateTest" time="0.002"/>
+  <testcase name="testEqualsDay" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testAddHoursMovesToTheNextDay" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testGetHoursInADayOnALeapYearStart" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testOfOnACalendarCreatesADefensiveCopy" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testIsToday" classname="kind.time.cal.CalendarDateTest" time="0.001"/>
+  <testcase name="testFirstDayOfWeekIsCorrectCrossingMonths" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testDefaultHourOfDay" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testDiffInDaysWhenGivenCalendarIsLessThan" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testIsBetweenWhenGivenNull" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <testcase name="testOfYearAndMonth" classname="kind.time.cal.CalendarDateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

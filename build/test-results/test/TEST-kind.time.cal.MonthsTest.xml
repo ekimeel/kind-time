@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.cal.MonthsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.001">
+  <properties/>
+  <testcase name="testNumberOfDaysInMonthOnALeapYear" classname="kind.time.cal.MonthsTest" time="0.0"/>
+  <testcase name="testMax" classname="kind.time.cal.MonthsTest" time="0.001"/>
+  <testcase name="testMin" classname="kind.time.cal.MonthsTest" time="0.0"/>
+  <testcase name="testNumberOfDaysInMonth" classname="kind.time.cal.MonthsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

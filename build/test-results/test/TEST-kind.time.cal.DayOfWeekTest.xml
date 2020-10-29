@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.cal.DayOfWeekTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.002">
+  <properties/>
+  <testcase name="testGetISOValueForThursday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testGetISOValueForMonday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testSundayIsWeekend" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testGetISOValueForSunday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testGetISOValueForTuesday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testGetISOValueForSaturday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testFridayIsWeekday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testTuesdayIsWeekday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testSaturdayIsWeekend" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testThursdayIsWeekday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testGetISOValueForWednesday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testMondayIsWeekday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testWednesdayIsWeekday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <testcase name="testGetISOValueForFriday" classname="kind.time.cal.DayOfWeekTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.fmt.DateFormatsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.001">
+  <properties/>
+  <testcase name="test" classname="kind.time.fmt.DateFormatsTest" time="0.001"/>
+  <testcase name="testFomrat_calendar_string" classname="kind.time.fmt.DateFormatsTest" time="0.0"/>
+  <testcase name="testFormatStrings" classname="kind.time.fmt.DateFormatsTest" time="0.0"/>
+  <system-out><![CDATA[2008-04-15T00:00:00
+null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

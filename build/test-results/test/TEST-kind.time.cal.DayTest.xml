@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.cal.DayTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.001">
+  <properties/>
+  <testcase name="testOfOnANullString" classname="kind.time.cal.DayTest" time="0.001"/>
+  <testcase name="testOfOnAInvalidDayString" classname="kind.time.cal.DayTest" time="0.0"/>
+  <testcase name="testOfAIntIsAlignedWithJavaCalendar" classname="kind.time.cal.DayTest" time="0.0"/>
+  <testcase name="testOfOnInvalidDayIndex" classname="kind.time.cal.DayTest" time="0.0"/>
+  <testcase name="testOfOnLongNamedDays" classname="kind.time.cal.DayTest" time="0.0"/>
+  <testcase name="testWeekendAndWeekday" classname="kind.time.cal.DayTest" time="0.0"/>
+  <testcase name="testOfOnShortNamedDays" classname="kind.time.cal.DayTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

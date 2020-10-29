@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.cal.HolidaysTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.01">
+  <properties/>
+  <testcase name="testLaborDayObserved" classname="kind.time.cal.HolidaysTest" time="0.001"/>
+  <testcase name="testNewYearsDayObservedWhenHolidayFalssOnAWeekend" classname="kind.time.cal.HolidaysTest" time="0.0"/>
+  <testcase name="testPresidentsDayObserved" classname="kind.time.cal.HolidaysTest" time="0.0"/>
+  <testcase name="testNewYeasDay" classname="kind.time.cal.HolidaysTest" time="0.002"/>
+  <testcase name="testChristmasDayObserved" classname="kind.time.cal.HolidaysTest" time="0.0"/>
+  <testcase name="testThanksgivingDayObserved" classname="kind.time.cal.HolidaysTest" time="0.001"/>
+  <testcase name="testIndependenceDayObserved" classname="kind.time.cal.HolidaysTest" time="0.001"/>
+  <testcase name="testColumbusDayObserved" classname="kind.time.cal.HolidaysTest" time="0.001"/>
+  <testcase name="testElectionDay" classname="kind.time.cal.HolidaysTest" time="0.001"/>
+  <testcase name="testVeteransDayObserved" classname="kind.time.cal.HolidaysTest" time="0.0"/>
+  <testcase name="testNewYearsDayObservedWhenHolidayFallsOnAWeekday" classname="kind.time.cal.HolidaysTest" time="0.0"/>
+  <testcase name="testMartinLutherKingDayObserved" classname="kind.time.cal.HolidaysTest" time="0.001"/>
+  <testcase name="testMemorialDayObserved" classname="kind.time.cal.HolidaysTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

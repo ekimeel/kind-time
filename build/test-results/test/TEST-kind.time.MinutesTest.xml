@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.MinutesTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.002">
+  <properties/>
+  <testcase name="testTenMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testTwentyMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testNinetyMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testPlus" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testPlusWithANegativeNumber" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testThreeMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testToMinutes" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testPlusWithAMinuteMultiple" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testFourMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testSixtyMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testThirtyMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testTwoMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testFiveMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testOneHundredTwentyMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testFifteenMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testMillisInAMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testOneMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <testcase name="testOneHundredMinute" classname="kind.time.MinutesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

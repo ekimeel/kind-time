@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.cal.CalendarMonthTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.012">
+  <properties/>
+  <testcase name="testGetFirstDayOfWeek" classname="kind.time.cal.CalendarMonthTest" time="0.0"/>
+  <testcase name="testGetDates" classname="kind.time.cal.CalendarMonthTest" time="0.006"/>
+  <testcase name="testGetSecondThursdayInMarch" classname="kind.time.cal.CalendarMonthTest" time="0.0"/>
+  <testcase name="testGetFifthThursdayInDecemberWhenItDoesntExist" classname="kind.time.cal.CalendarMonthTest" time="0.0"/>
+  <testcase name="testGetLastDayOfWeek" classname="kind.time.cal.CalendarMonthTest" time="0.001"/>
+  <testcase name="testGetFirstSundayInApril" classname="kind.time.cal.CalendarMonthTest" time="0.002"/>
+  <testcase name="testOfYeaAndMonth" classname="kind.time.cal.CalendarMonthTest" time="0.001"/>
+  <testcase name="testGetLastDayOfWeekOnALeapYear" classname="kind.time.cal.CalendarMonthTest" time="0.0"/>
+  <testcase name="testGetDayOfMonth" classname="kind.time.cal.CalendarMonthTest" time="0.001"/>
+  <testcase name="testGetDayOfMonthWhenOutOfRange" classname="kind.time.cal.CalendarMonthTest" time="0.001"/>
+  <system-out><![CDATA[1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

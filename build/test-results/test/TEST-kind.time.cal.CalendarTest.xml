@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.cal.CalendarTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.002">
+  <properties/>
+  <testcase name="testCreateDate_int_int_int_WithMonthGreaterThanMaxMonth" classname="kind.time.cal.CalendarTest" time="0.001"/>
+  <testcase name="testCreateDate_int_int_int_WithYearLessThanMinYear" classname="kind.time.cal.CalendarTest" time="0.0"/>
+  <testcase name="testCreateDate_int_int_int_WithYearGreaterThanMaxYear" classname="kind.time.cal.CalendarTest" time="0.0"/>
+  <testcase name="testCreateDate_int_int_int_WithDayGreaterThanMaxDay" classname="kind.time.cal.CalendarTest" time="0.0"/>
+  <testcase name="testCreateDate_int_int_int_WithMonthLessThanMinMonth" classname="kind.time.cal.CalendarTest" time="0.0"/>
+  <testcase name="testCreateDate_int_int_int" classname="kind.time.cal.CalendarTest" time="0.0"/>
+  <testcase name="testCreateDate_int_int_int_WithDayLessThanMinDay" classname="kind.time.cal.CalendarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

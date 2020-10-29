@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kind.time.cal.MonthTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:55:17" hostname="TON-HCSHBH2" time="0.001">
+  <properties/>
+  <testcase name="testOfOnANullString" classname="kind.time.cal.MonthTest" time="0.0"/>
+  <testcase name="testOfOnInvalidMonthIndex" classname="kind.time.cal.MonthTest" time="0.0"/>
+  <testcase name="testOfAIntIsAlignedWithJavaCalendar" classname="kind.time.cal.MonthTest" time="0.0"/>
+  <testcase name="testOfOnAInvalidMonthString" classname="kind.time.cal.MonthTest" time="0.0"/>
+  <testcase name="testOfOnShortNamedMonths" classname="kind.time.cal.MonthTest" time="0.0"/>
+  <testcase name="testOfOnLongNamedMonths" classname="kind.time.cal.MonthTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
